@@ -1,0 +1,22 @@
+{
+  "name": "cdp-recruitment-javascript-master",
+  "version": "1.0.0",
+  "description": "## Filter",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couckedev/cdp-recruitment-javascript-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/couckedev/cdp-recruitment-javascript-master/issues"
+  },
+  "homepage": "https://github.com/couckedev/cdp-recruitment-javascript-master#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
